@@ -1,0 +1,1 @@
+'hola como estas' "h" - ALGoritmo + .. 89312.23 -33 -2e+23 +2e23

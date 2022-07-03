@@ -1,0 +1,1 @@
+890321 'hola' verdadero falso +20 20.3 accion ACciOn variable 2e-23 3e+4 +20.3 20 + 30
